@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Title Logo */
+/* Title Logo top of Page*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -43,13 +43,12 @@ body {
     margin-left: 25px;
 }
 
-/* HyperLinks */
+
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-/* Paragraph Text */
 p {
     font-size: 16px;
 }
@@ -99,7 +98,7 @@ p {
     font-size: 36px;
 }
 
-/* Aside Benefits Right Bar */
+/* Benefits Vertical Bar Right */
 .benefits {
     margin-right: 20px;
     padding: 20px;
