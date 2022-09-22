@@ -21,7 +21,7 @@ https://peterm012.github.io/Horiseon/
 - Compliant with Accessibilty standards
 
 ## Summary 
-This project was to show how to properly refactor and improve the code base for sustainability and accessibility. Using semantic HTML I improved the quality of selectors and properties in CSS. I used comments between each line to provide organization and maintain a healthy form of communication between other developers. I also exceeded expectations with code using alt attributes to meet the client's accessibility standards.
+This project was to show how to properly refactor and improve the code base for sustainability and accessibility. Using semantic HTML I improved the quality of selectors and properties in CSS. I used comments between each line to provide organization and maintain a healthy form of communication between other developers. I also exceeded expectations with code using alt attributes and optimized the search engine parameters to meet the client's accessibility standards.
 
 ## Code Snippet
 Navigation Bar code
