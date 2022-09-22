@@ -12,9 +12,19 @@ https://peterm012.github.io/Horiseon/
 - Git - version control system to track changes to source code
 - GitHub - hosts reposiory that can be deployed to Github Pages
 
+## To Do
+- Leave code cleaner
+- Make sure Navigation Bar works properly
+- Consolidate CSS selectors
+- Include Semantic Structure
+- Include Comments
+- Compliant with Accessibilty standards
+
 ## Summary 
+This project was to show how to properly refactor and improve the code base for sustainability and accessibility. Using semantic HTML I improved the quality of selectors and properties in CSS. I used comments between each line to provide organization and maintain a healthy form of communication between other developers. I also exceeded expectations with code using alt attributes to meet the client's accessibility standards.
 
 ## Code Snippet
+Navigation Bar code
 ```html
    <header class="header">
         <h1>Hori<span class="seo">seo</span>n</h1>
