@@ -1,7 +1,7 @@
 # Horiseon
 
 ## Deployed Link
-https://peterm012.github.io/Search-Engine-Horiseon-Project/#search-engine-optimization
+https://peterm012.github.io/Horiseon/
 
 ## Site Picture 
 ![image](https://user-images.githubusercontent.com/110750833/191623680-cba27b43-ca78-43d3-a70f-5e31214c63be.png)
