@@ -4,7 +4,7 @@
 https://peterm012.github.io/Horiseon/
 
 ## Site Picture 
-![image](https://user-images.githubusercontent.com/110750833/191623680-cba27b43-ca78-43d3-a70f-5e31214c63be.png)
+![site](https://peterm012.github.io/my-portfolio/)
 
 ## Technologies Used
 - HTML - Used to create elements on the DOM
